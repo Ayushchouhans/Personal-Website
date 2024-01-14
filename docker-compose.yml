@@ -3,4 +3,4 @@ services :
   web :
      image : yashsingh3148/web3:latest
      ports :
-         - "7070:7070"
+         - "7070:80"
